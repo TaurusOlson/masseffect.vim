@@ -16,10 +16,9 @@
 " Name:        masseffect
 " Maintainer:  Taurus Olson <taurusolson@gmail.com>
 " Last Change: 7/12/2011
-"
 
-" masseffect.vim is inspired by Mass Effect 2. It was build from bclear.vim
-" and solarized.vim
+
+" masseffect.vim is inspired by Mass Effect 2. It was built from bclear.vim and solarized.vim
 
 hi clear
 set background=light
